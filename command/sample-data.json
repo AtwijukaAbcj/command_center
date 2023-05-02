@@ -1,0 +1,17 @@
+{
+    "data": {
+        "transaction": {
+            "airtel_money_id": "null",
+            "id": "19287812819",
+            "message": "The Request ID is invalid/already processed.",
+            "status": "TF"
+        }
+    },
+    "status": {
+        "response_code": "DP00800001006",
+        "code": "200",
+        "success": true,
+        "result_code": "ESB000010",
+        "message": "SUCCESS"
+    }
+}
